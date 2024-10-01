@@ -14,11 +14,6 @@ Bu uygulama, bir davetli listesi oluşturarak isimleri ekrana yazdırmayı amaç
 - .NET Framework veya .NET Core yüklü olmalıdır.
 - C# geliştirme ortamı (Visual Studio, Visual Studio Code, vb.)
 
-## Katkıda Bulunanlar
 
-- [İsminiz] - Proje sahibi
 
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
 
